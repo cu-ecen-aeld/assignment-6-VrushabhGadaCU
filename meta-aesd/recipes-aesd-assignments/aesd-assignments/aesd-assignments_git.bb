@@ -35,7 +35,7 @@ do_compile () {
 }
 
 do_install () {
-	# TODO: Install your binaries/scripts here.
+	# TODO: Install your binaries/scripts here. run
 	# Be sure to install the target directory with install -d first
 	# Yocto variables ${D} and ${S} are useful here, which you can read about at 
 	# https://docs.yoctoproject.org/ref-manual/variables.html?highlight=workdir#term-D
